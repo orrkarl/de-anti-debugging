@@ -20,10 +20,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pch.cpp">
+    <ClCompile Include="..\de-anti-debugging\debugger.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="debugger.cpp">
+    <ClCompile Include="pch.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
